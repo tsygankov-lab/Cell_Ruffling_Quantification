@@ -11,7 +11,7 @@ Siarhei Hladyshau, Jorik P Stoop, Kosei Kamada, Shuyi Nie, Denis V Tsygankov
 
 Spatiotemporal coordination of Rac1 and Cdc42 at the whole cell level during cell ruffling
 
-doi: https://doi.org/10.1101/2023.03.31.535147
+doi: https://doi.org/10.3390/cells12121638
 
 ## Cell_Ruffling_Quantification
 
